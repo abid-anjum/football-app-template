@@ -9,7 +9,7 @@ TheSportDB (APi) https://www.thesportsdb.com/
 
 # Screenshot App
 
-![Alt text](https://raw.githubusercontent.com/abidanjum2019/football-app-templatep/master/screenshot-football-app.png "App Screenshot")
+![Alt text](https://raw.githubusercontent.com/abidanjum2019/football-app-template/master/screenshot-football-app.png "App Screenshot")
 
 # Author
 abid anjum
