@@ -9,9 +9,9 @@ TheSportDB (APi) https://www.thesportsdb.com/
 
 # Screenshot App
 
-![Alt text](https://raw.githubusercontent.com/haerulmuttaqin/dicoding-football-app/master/screenshot-football-app.png "App Screenshot")
+![Alt text](https://raw.githubusercontent.com/abidanjum2019/football-app-templatep/master/screenshot-football-app.png "App Screenshot")
 
 # Author
-- **Haerul Muttaqin** _(Dicoding Graduate)_
+abid anjum
 
 Don't forget to follow and give ★ , thanks:)
